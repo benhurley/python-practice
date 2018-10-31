@@ -31,6 +31,10 @@ In order to clone and run this project, you will need the following:
 1. Python 3 (Install with [homebrew](https://docs.brew.sh/Homebrew-and-Python), or download directly from their [website](https://www.python.org/downloads/))
 2. [Coverage](https://coverage.readthedocs.io/en/latest/install.html) (optional for code coverage).
 
+## Functions
+* [FizzBuzz](func/fizzbuzz.py)
+* [FizzBuzzJazz](func/fizzbuzz.py)
+
 ## Testing
 
 Testing is currently being completed with [unittest](https://docs.python.org/3/library/unittest.html). 
@@ -39,4 +43,4 @@ Testing is currently being completed with [unittest](https://docs.python.org/3/l
 
 Corey Schafer - [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI&t=417s)
 
-Shane Exterkamp - [Python Data Structures](https://github.com/exterkamp/Python-Data-Structures/blob/master/README.md))
+Shane Exterkamp - [Python Data Structures](https://github.com/exterkamp/Python-Data-Structures/blob/master/README.md)
