@@ -27,7 +27,7 @@ coverage report -m
 
 ## Prerequisites
 
-In order to clone and run this project, you will need the following:
+In order to clone and run the project, you will need the following:
 1. Python 3 (Install with [homebrew](https://docs.brew.sh/Homebrew-and-Python), or download directly from their [website](https://www.python.org/downloads/))
 2. [Coverage](https://coverage.readthedocs.io/en/latest/install.html) (optional for code coverage).
 
