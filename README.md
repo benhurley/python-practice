@@ -14,7 +14,7 @@ To get started, grab the https link above and clone this repo to your local mach
 git clone https://github.com/thebenhurley/python-practice.git
 ```
 
-Then, run the test suite from inside the python-practice directory (-v verbose flag is optional)
+Then run the test suite from inside the python-practice directory (-v verbose flag is optional)
 ```
 python3 -m unittest discover -v
 ```
