@@ -5,7 +5,7 @@
 
 # Python Practice
 
-This side project was to begin focusing on common functions in python while also experimenting with best practices for unit testing and code / test coverage. Also focusing more on moving away from python 2.7 and learning python3 features.
+This side project was made to begin focusing on common functions in python while also experimenting with best practices for unit testing and code / test coverage. Also focusing more on moving away from python 2.7 and learning python3 features.
 
 ## Getting Started
 
