@@ -5,7 +5,7 @@
 
 # Python Sandbox for Practice
 
-This side project was to begin focusing on common functions in python while also experimenting with best practices for unit testing and code / test coverage. Also focusing more on moving away from python 2.7 and learning python3 features.
+This side project was made to begin focusing on common functions in python while also experimenting with best practices for unit testing and code / test coverage. Also focusing more on moving away from python 2.7 and learning python3 features.
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ To get started, grab the https link above and clone this repo to your local mach
 git clone https://github.com/thebenhurley/python-practice.git
 ```
 
-Then, run the test suite from inside the python-practice directory (-v verbose flag is optional)
+Then run the test suite from inside the python-practice directory (-v verbose flag is optional)
 ```
 python3 -m unittest discover -v
 ```
@@ -27,7 +27,7 @@ coverage report -m
 
 ## Prerequisites
 
-In order to clone and run this project, you will need the following:
+In order to clone and run the project, you will need the following:
 1. Python 3 (Install with [homebrew](https://docs.brew.sh/Homebrew-and-Python), or download directly from their [website](https://www.python.org/downloads/))
 2. [Coverage](https://coverage.readthedocs.io/en/latest/install.html) (optional for code coverage).
 
