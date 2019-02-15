@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/python-%3E%3D3.7.1-blue.svg"/>
 </p>
 
-# Python Practice
+# Python Sandbox for Practice
 
 This side project was to begin focusing on common functions in python while also experimenting with best practices for unit testing and code / test coverage. Also focusing more on moving away from python 2.7 and learning python3 features.
 
